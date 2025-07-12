@@ -54,3 +54,34 @@ function countNegatives(arr2){
 }
 let count =countNegatives(arr3)
 console.log(count)
+
+// ! 4: Write a fucntion that returns a largest no. in an array 
+
+let arr4 = [5,0,7,10,-8,17,1]
+
+function findlargest(arr){
+    let largest =arr[0]
+    for(let i=0;i<arr.length;i++){
+        if(arr[i]>largest){
+            largest= arr[i]
+        }
+    }
+    return largest;
+}
+let result4 = findlargest(arr4)
+console.log(result4)
+console.log(-Infinity)
+
+// ! 5: Write a fucntion that returns a smallest no. in an array.
+
+function findSmallest(arr){
+    let smallest = Infinity;
+    for(let i=0;i<arr.length;i++){
+        if(arr[i]<smallest){
+            smallest =arr[i]
+        }
+    }
+    return smallest;
+}
+let res5 = findSmallest(arr4)
+console.log(res5)
