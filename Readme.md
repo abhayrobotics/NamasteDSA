@@ -20,3 +20,4 @@
 -   3: Write a fucntion that returns then. of negative numbers in ar array.
 -   4: Write a fucntion that returns a largest no. in an array.
 -   5: Write a fucntion that returns a smallest no. in an array.
+-   6:Find the second largest no. in an array.and corner cases
