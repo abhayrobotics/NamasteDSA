@@ -21,3 +21,6 @@
 -   4: Write a fucntion that returns a largest no. in an array.
 -   5: Write a fucntion that returns a smallest no. in an array.
 -   6:Find the second largest no. in an array.and corner cases.
+
+### 03_stars.js
+-   7 -14 : Star pattern -double loop
