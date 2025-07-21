@@ -34,4 +34,4 @@
 
 ### Time and space Complexity
 
--   18: Remove Duplicates from Sorted Array
+-  18: Remove Duplicates from Sorted Array
