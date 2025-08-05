@@ -42,3 +42,5 @@ const maxProfit2 =(prices)=>{
     return maxProf;
 }
 console.log(maxProfit2(prices))
+
+// Time complexity -O(n)
