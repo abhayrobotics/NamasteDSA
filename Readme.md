@@ -41,6 +41,10 @@
 
 ### 07_sell Stocks.js
 -  21: Best Time to sell stock for max profit
+
+### 08_mergeSorted Array.js
 -  22 : Merge 2 sorted array
 
+### 09_moveZeroes.js
+-  23 : Move Zeroes to the last without
 
