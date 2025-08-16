@@ -47,4 +47,7 @@
 
 ### 09_moveZeroes.js
 -  23 : Move Zeroes to the last without
+-  24: MAx consecutive ones
+-  25: find Single Number in an array of 2 occurance except 1 element
+
 
