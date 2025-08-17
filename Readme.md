@@ -28,11 +28,14 @@
 ### 04_digits.js
 -   15: Write a function that count the digits of a number
 
+
 ### 05_Palindrome: 
 -   16: Write a function to check a palindrome no. 
 -   17 Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 -   1], then return 0.
 
 ### Time and space Complexity
+
+## Array - Easy /Medium
 
 ### 06_removeDuplicates.js
 -  18: Remove Duplicates from Sorted Array
@@ -50,5 +53,9 @@
 -  24: MAx consecutive ones
 -  25 : find missing no. in an array of (0,n) in unsorted array.
 -  26: find Single Number in an array of 2 occurance except 1 element
+
+# Practice
+- 27: Write a function to find the longest common prefix string amongst an array of strings.
+- 28 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 
