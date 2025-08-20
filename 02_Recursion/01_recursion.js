@@ -48,3 +48,4 @@ function sum2(n){
     return n+sum2(n-1)
 }
 console.log(sum2(5))
+
