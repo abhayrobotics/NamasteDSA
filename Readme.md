@@ -59,3 +59,9 @@
 - 28 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 
+## Recursion
+
+### 01_recursion.js 
+- 29: Sum of 1st n nos using recursion
+- 30: Sum of all nos in array using recursion and variants
+- 31: Factorial using recursion
