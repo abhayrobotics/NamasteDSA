@@ -101,3 +101,47 @@ function factorial(n){
     return n* factorial(n-1)
 }
 console.log(factorial(4))
+
+// TODO 32:check if Power of 2
+
+var isPowerOfTwo = function(n) {
+    let power =0;
+    function check(n,power){
+        
+        if(n==Math.pow(2,power)){
+            return true
+        }
+        if(n%2!=0 || n< Math.pow(2,power)){
+            return false
+        }
+       return check(n,power+1)
+    }
+    return check(n,power)
+};
+// method-2: equally efficient
+
+var isPowerOfTwo = function(n) {
+
+    if(n==1){
+        return true;
+    }
+    else if(n<1 || n%2!=0){
+        return false
+    }
+    return isPowerOfTwo(n/2)
+}
+
+// TC:  O(log n with base 2)
+
+//method -3: efficient solution
+
+// bitwise 8=1000
+        // 7=0111
+        // 8 & 7 =0 (And operation) 
+
+function powerOfTwo(n){
+    return (n & n-1 ==0 && n!=0)
+        
+}
+
+// TC: O(1)

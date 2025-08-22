@@ -66,3 +66,4 @@
 - 29: Sum of 1st n nos using recursion
 - 30: Sum of all nos in array using recursion and variants
 - 31: Factorial using recursion
+- 32: Power of 2
