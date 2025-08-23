@@ -67,3 +67,7 @@
 - 30: Sum of all nos in array using recursion and variants
 - 31: Factorial using recursion
 - 32: Power of 2
+- 33: Fibonacci Series 
+
+## Searching and Sorting
+-  34: linear Search
