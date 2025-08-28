@@ -69,5 +69,11 @@
 - 32: Power of 2
 - 33: Fibonacci Series 
 
-## Searching and Sorting
--  34: linear Search
+## 03 Searching and Sorting
+-   34: linear Search
+-   35	Binary Search
+-   36	Bubble sort
+-   37	Selection sort
+-   38	Insertion Sort
+
+
