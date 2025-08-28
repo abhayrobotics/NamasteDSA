@@ -54,3 +54,28 @@ function mergeSort(arr){
 }
 
 console.log(mergeSort(arr))
+
+// TODO: splice
+// modies the original array
+// Array.splice(startIndex,deletecount,Additem1,additem2...)
+
+let a =[1,2,3,4,5,6,7]
+
+a.splice(3,1,)
+console.log(a)
+a.splice(2,1,'A',"B","C")
+console.log(a)
+
+// todo: Slice
+// returns a new extracted array
+let b = [1,2,3,4,5,6,7]
+
+let res = b.slice(2,4)
+console.log(res)
+
+// all element from index 4
+res = b.slice(4)
+console.log(res)
+
+// original array not modified
+console.log(b)

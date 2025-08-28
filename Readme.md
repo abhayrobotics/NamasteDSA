@@ -75,5 +75,6 @@
 -   36	Bubble sort
 -   37	Selection sort
 -   38	Insertion Sort
+-   39: Merge sort | slice and splice
 
 
