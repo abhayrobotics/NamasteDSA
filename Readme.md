@@ -77,4 +77,6 @@
 -   38	Insertion Sort
 -   39: Merge sort | slice and splice
 
+## 04 Linked list
+
 
