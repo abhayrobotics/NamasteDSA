@@ -8,6 +8,12 @@ var MyLinkedList = function() {
     this.size = 0
    
 };
+// TODO : IMPORTANT example of a linked list
+// ✅ Create linked list: 1 → 2 → 3 → 4 → null
+let node4 = new Node(4);
+let node3 = new Node(3, node4);
+let node2 = new Node(2, node3);
+let node1 = new Node(1, node2);
 
 /** 
  * @param {number} index
