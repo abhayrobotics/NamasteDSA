@@ -81,4 +81,6 @@
 -   42	Reverse Linked List
 -   43	Linked List Cycle | Set() 
 -   44	Palindrome Linked List
+-   45  Intersection of Two Linked Lists
+-   47: Remove nth node from last in Linked List
 
