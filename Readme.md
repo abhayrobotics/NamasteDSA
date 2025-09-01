@@ -58,8 +58,6 @@
 - 27: Write a function to find the longest common prefix string amongst an array of strings.
 - 28 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
-
-
 ## Recursion
 
 ### 01_recursion.js 
@@ -78,5 +76,9 @@
 -   39: Merge sort | slice and splice
 
 ## 04 Linked list
-
+-   40	Design Linked List
+-   41	Middle of the Linked List
+-   42	Reverse Linked List
+-   43	Linked List Cycle | Set() 
+-   44	Palindrome Linked List
 
