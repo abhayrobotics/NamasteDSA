@@ -83,5 +83,12 @@
 -   44	Palindrome Linked List
 -   45  Intersection of Two Linked Lists
 -   47: Remove nth node from last in Linked List
--   48: Remove nth node from last in Linked List
+-   48 Remove Duplicates from Sorted List
+-   49: Even odd Linked list
+-   50	Add Two Numbers
+-   51	Merge Two Sorted Lists
+-   52	Rotate List
+-   53	Swap Nodes in Pairs
+
+
 
