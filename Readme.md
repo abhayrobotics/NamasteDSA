@@ -83,4 +83,5 @@
 -   44	Palindrome Linked List
 -   45  Intersection of Two Linked Lists
 -   47: Remove nth node from last in Linked List
+-   48: Remove nth node from last in Linked List
 

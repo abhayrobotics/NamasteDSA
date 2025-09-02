@@ -29,3 +29,31 @@ var removeNthFromEnd = function(head, n) {
 };
 
 // approach-2: 1 passs, 2 pointer approach
+function removeN(head ,n){
+     // method-2: 2 pointer 
+        let sentinel = new ListNode(0,head)
+        let p1 = sentinel
+        let p2  = sentinel
+        let i = 0
+        
+        //exit when p2 reach last point
+        while(p2.next!== null){
+            // reach p2  to n
+            if(i<n){
+                i++;
+                p2 = p2.next;
+            }
+            else{
+                p1=p1.next
+                p2=p2.next
+            }
+        }
+        // delete the element
+        p1.next = p1.next.next
+
+        return sentinel.next;
+
+    }
+
+    // TODO:  48 Remove Duplicates from Sorted List
+    
