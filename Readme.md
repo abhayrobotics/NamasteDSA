@@ -92,5 +92,10 @@
 
 ## Strings
 
+-   54	Length of Last Word
+-   55	Find Words Containing Character
+-   56	Jewels and Stones
+-   57  Find Most Frequent Vowel and Consonant
+
 
 
