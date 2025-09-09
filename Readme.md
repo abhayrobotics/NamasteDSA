@@ -96,6 +96,16 @@
 -   55	Find Words Containing Character
 -   56	Jewels and Stones
 -   57  Find Most Frequent Vowel and Consonant
+-   58	Split a String in Balanced Strings
+-   59	Reverse String II
+-   60	Valid Palindrome
+-   61	Largest Odd Number in String
+-   62	Valid Anagram
+-   63	 Isomorphic Strings
+-   64	Group Anagrams
+
+
+
 
 
 
