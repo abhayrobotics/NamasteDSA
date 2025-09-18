@@ -105,6 +105,10 @@
 -   64	Group Anagrams
 
 ## Stack and Queue
+- 65 creating stack from queue
+- 66 crewting queue from stack
+- 67
+- 
 
 
 
